@@ -1,4 +1,4 @@
-Location Share
+SosApp
 ==============
 
 A simple Android application that shares your current location.
